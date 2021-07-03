@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a7fda023238c7f688389827460d24ffdab60b5d9",
+    "author": "richelbilderbeek <richel@richelbilderbeek.nl>",
+    "time": "2021-07-03 10:05:47",
+    "files": 1,
+    "merge": false,
+    "message": "Depend on version on GitHub master\n"
+  },
+  "remote": "https://github.com/ropensci/mauricer",
+  "pkg": "mauricer"
+}
