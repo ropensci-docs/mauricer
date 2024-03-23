@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0662ab40e2f9c5dee8465c8078f56536b0d8326a",
+    "author": "richelbilderbeek <richel@richelbilderbeek.nl>",
+    "time": "2023-09-25 17:28:03",
+    "files": 1,
+    "merge": false,
+    "message": "Use CRAN beastier\n"
+  },
+  "repo": "https://github.com/ropensci/mauricer",
+  "pkg": "mauricer"
+}
