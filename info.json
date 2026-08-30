@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e6dffca22b578977c1be138b4b389d64e872d36b",
+    "author": "richelbilderbeek <rjcbilderbeek@gmail.com>",
+    "time": "2025-12-17T07:40:49Z",
+    "files": 1,
+    "merge": false,
+    "message": "Fix Markdown\n"
+  },
+  "repo": "https://github.com/ropensci/mauricer",
+  "pkg": "mauricer",
+  "time": "2026-08-30T07:35:49Z"
+}
